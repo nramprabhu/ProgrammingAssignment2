@@ -1,7 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
-## Write a short comment describing this function
+## This is the week 3 Assignment 
+## This function will provide methods for get , set , getInverse and set Inverse 
+## and provide a list with all the 4 functions
 
 makeCacheMatrix <- function(x = matrix()) {
 
